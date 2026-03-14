@@ -22,7 +22,7 @@
   "author": "PVS KiranKumar",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/vsatya-kirankumar/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
